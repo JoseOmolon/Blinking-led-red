@@ -8,3 +8,6 @@ I’ve decided to become the kind of engineer who builds things from the ground 
 
 ### ⚠️ Lessons from the Start
 You can’t just plug an LED into a battery. You’ll burn it out. The LED is a one-way street for current, and if you skip the resistor, it’s toast. This was my first electrical reality check: physics doesn’t care about your enthusiasm.
+
+## 🔩 Parts I Used
+!(Componentsparts.png)
