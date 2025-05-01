@@ -15,7 +15,7 @@ You can’t just plug an LED into a battery. You’ll burn it out. The LED is a 
 ## 🛠️ Wiring It Up
 
 
-![]()
+![](ComponentsAssembly.gif)
 
 
 ## 🧠 My First Code
