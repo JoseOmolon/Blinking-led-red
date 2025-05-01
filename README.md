@@ -14,7 +14,7 @@ You can’t just plug an LED into a battery. You’ll burn it out. The LED is a 
 
 ## 📈 Schematics
 
-![](Schematics.gif)
+![](Schematics.png)
 
 ## 🛠️ Wiring It Up
 
