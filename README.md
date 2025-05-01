@@ -13,4 +13,4 @@ You can’t just plug an LED into a battery. You’ll burn it out. The LED is a 
 ![](Componentsparts.png)
 
 ## 🛠️ Wiring It Up
-![](ComponentsAssembly.mp4)
+[Watch ComponentsAssembly Video](https://www.youtube.com/watch?v=BwOe0xdcEr4)
