@@ -58,4 +58,5 @@ This is just day one. Next up:
 ## 💬 Final Thoughts
 Starting from the bottom isn’t glamorous, but it’s honest. If you’re reading this and thinking about learning electronics, stop waiting. Go buy a red LED and make it blink. You don’t need a fancy lab. You need commitment and grit.
 
+Check
 ---
