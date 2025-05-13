@@ -2,3 +2,4 @@ int ledPin = 13; // Most boards have a built-in LED here
 
 void setup() {
  
+ pinMode(ledPin, OUTPUT);
